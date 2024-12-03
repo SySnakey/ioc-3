@@ -5,5 +5,6 @@ body {
   background-image: url("./src/minecraft-bg.png");
   background-repeat: no-repeat;
   background-size: cover;
-  background-position: top;
+  height: 100vh;
+  background-position: center;
 }
