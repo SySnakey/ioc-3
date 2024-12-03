@@ -68,6 +68,19 @@ body {
   align-items: center;
 }
 
+.continut {
+  width: 80%;
+  min-height: 80%;
+  margin: 0 auto;
+  background-color: white;
+  justify-content: center;
+  margin-top: 20px;
+  margin-bottom: 10px;
+  opacity: 0.9;
+  border-radius: 25px;
+  padding: 25px;
+}
+
 @media only screen and (max-width: 530px) {
   .navbar a {
     width: 130px;
